@@ -1,5 +1,5 @@
+#summary Introduction and themes of my annotations about Gimp 2.8
 #labels Featured
-#Introduction and themes of my annotations about Gimp 2.8
 = Some annotations for the gimp 2.8 =
 == Introduction ==
 The new Gimp 2.8 is becoming a tool very powerful for the painting, mainly with the new Dynamics feature. But this feature is very difficult to use if you don't have an idea precise or a great picture of the new context of Gimp.
