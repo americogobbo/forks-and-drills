@@ -6,7 +6,7 @@ Is important now to use this feature understanding what are truly the new dynami
 In this document I'll do an excursus about this ... I'll try find a new way to understand brushes and presets, painting media and dynamics ...
 
 == Details ==
-  * Real *[Painting]*, *Media* and *Tools*.
+  * Real *Painting*, *Media* and *Tools* [RealPainting].
   * Media and tools for the *digital painting*.
   * *Dynamics* and *behaviors* for the digital painting.
   * What are and not the *Dynamics* and *presets* on Gimp 2.8.
