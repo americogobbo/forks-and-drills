@@ -9,7 +9,7 @@ In this document I'll do an excursus about this ... I'll try find a new way to u
 == Details ==
   * Real *Painting*, *Media* and *Tools*. [RealPainting]
   * Media and tools for the *digital painting*. [DigitalPainting]
-  * *Dynamics* and *behaviors* for the digital painting.
+  * *Dynamics* and *behaviors* for the digital painting. [DynamicsBehaviors]
   * What are and not the *Dynamics* and *presets* on Gimp 2.8.
   * How we can to explore better the new possibilities and *simplify* the *workflow*.
   * Which the things that need *improvements* to don't *mistakes* and have a clear workflow.
