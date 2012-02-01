@@ -1,13 +1,14 @@
 #labels Featured
-#Some annotations for the gimp 2.8
-= Introduction =
+= Some annotations for the gimp 2.8 =
+== Introduction ==
 I think that the new Gimp 2.8 is very powerful mainly to painting, with the new Dynamics feature. But this feature is very difficult to use if you don't have an idea precise or a great picture of the new context of Gimp.
 Is important now to use this feature understand truly what is the dynamics and what is a preset. Before these two things were mixed now they are separated.
+In this document with my annotations about this ... I'll try find a new way to understand brushes and presets, painting media and dynamics ...
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Details ==
+  * Real *Painting*, *Media* and *Tools*.
+  * Media and tools for the *digital painting*.
+  * *Dynamics* and *behaviors* for the digital painting.
+  * What are and not the *Dynamics* and *presets* on Gimp 2.8.
+  * How we can to explore better the new possibilities and *simplify* the *workflow*.
+  * Which the things that need *improvements* to don't *mistakes* and have a clear workflow.
