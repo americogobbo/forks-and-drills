@@ -7,7 +7,9 @@ Add your content here.
 
 = Details =
 
-1.1 - 
+1.1 - DinamicsPresetsGimp
+1.2 - RealPainting
+1.3 - 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
