@@ -1,6 +1,6 @@
 #summary Some concepts of real painting useful for the gimp dynamics.
 
-= Introduction =
+= Real Painting =
 
 Add your content here.
 
