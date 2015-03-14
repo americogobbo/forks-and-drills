@@ -6,7 +6,7 @@ Docks for Gimp 2.8 to make more easy to understand the new dynamics feature.
 **Archive: bristles-basic.zip** 
 Forks and Drills basic set brushes dedicated for acrylic or oil, all brushes are an aspect of scrawled stroke, made in 2008.
 
-Archive: bristles-complete.zip
+**Archive: bristles-complete.zip**
 Forks and Drills complete set brushes dedicated for acrylic or oil, all brushes are an aspect of scrawled stroke, made in 2008.
 
 Archive: forks-drawing_mypaint-brushes-v1.zip
