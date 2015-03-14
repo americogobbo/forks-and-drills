@@ -1,6 +1,6 @@
 #Brushes for Gimp and MyPaint and other resources.
 
-**Archive: abas-gimp-forks.zip**
+**Archive: abas-gimp-forks.zip |**
 Docks for Gimp 2.8 to make more easy to understand the new dynamics feature. 
 
 **Archive: bristles-basic.zip** 
