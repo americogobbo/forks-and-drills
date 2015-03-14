@@ -1,7 +1,8 @@
-#summary Dynamics and presets for the Digital Painting.
-#labels Featured
+#Summary 
+#Dynamics and presets for the Digital Painting.
+#Labels Featured
 
-= Introduction =
+= Summary =
 
 Add your content here.
 
