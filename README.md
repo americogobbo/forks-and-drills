@@ -67,7 +67,7 @@ Zababal Brushes Pack for Forks And Drills
 
 Brush set for Gimp 2012
 
-Author: Œubomír Zabadal [http://www.kvtv.pf.ukf.sk/o-katedre?id=44]
+Author: L'ubomír Zabadal [http://www.kvtv.pf.ukf.sk/o-katedre?id=44]
 
 Testing: José Americo Gobbo [http://americogobbo.com.br], Mozart Couto [http://blogdodesenhador.blogspot.com.br/]
 
