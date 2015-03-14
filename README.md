@@ -64,9 +64,14 @@ This set are of my experimentations about this technique... next this set are im
 
 **Archive: zabadal-brushes.zip |**
 Zababal Brushes Pack for Forks And Drills
+
 Brush set for Gimp 2012
+
 Author: Œubomír Zabadal [http://www.kvtv.pf.ukf.sk/o-katedre?id=44]
+
 Testing: José Americo Gobbo [http://americogobbo.com.br], Mozart Couto [http://blogdodesenhador.blogspot.com.br/]
+
 License: GPL 3.0
+
 Main note:
 The series is supposed to simulate traditional painting and graphics techniques such as woodcut, litography, red chalk, drypoint, ink drawing . The brushes are designed for painting using a mouse. For the woodcut brushes, no dynamics are used. For red chalk brushes, we recommend changing the intensity using a combination of Air brush tool and the Flow function, for Round Brush, we recommend using a table and the Size dynamics.
