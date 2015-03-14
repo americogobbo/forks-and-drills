@@ -15,22 +15,22 @@ This is a small set of my brushes to draw with Mypaint. They're mainly the pen f
 **Archive: forks-and-drills-pack1.tar.gz |**
 Forks And Drills Brush Set for Gimp
 
-> Doodle Series
+> Doodle Series. 
 All brushes in this series are thought to emulate dry media, like pencil, graphite, etc.
 
-Dry Brush Series
+> Dry Brush Series. 
 The Dry Brush Series was thought to emulate many kind of dry brushes.
 
-Flower Series
+> Flower Series. 
 All brushes in this series are thought to make patterns and textures.
 
-Metabrush Series
+> Metabrush Series. 
 All brushes in this series are thought to make many techniques, that is motif of the name.
 
-Watercolor Series
+> Watercolor Series. 
 The Watercolors Series was thought to emulate many of the aspect of that technique.
 
-Watercolor Series [Grain Series]
+> Watercolor Series [Grain Series]. 
 The Watercolors Series was thought to emulate many of the aspect of that technique. In this case the brushes are formed of small grains of tint.
 
 **Archive: forks-screentones-patterns.zip |**
