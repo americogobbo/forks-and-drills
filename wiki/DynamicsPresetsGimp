@@ -1,4 +1,4 @@
-#summary Introduction and themes of my annotations about Gimp 2.8
+#Introduction and themes of my annotations about Gimp 2.8
 #labels Featured,gimp,brushes,dynamics,presets,digitalpainting
 = Some annotations for the gimp 2.8 =
 == Introduction ==
@@ -7,10 +7,10 @@ Is important now to use this feature understanding what are truly the new dynami
 In this document I'll do an excursus about this ... I'll try find a new way to understand brushes and presets, painting media and dynamics ...
 
 == Themes ==
-  * Real _Painting_, _Media_ and _Tools_. [RealPainting]
-  * Media and tools for the _digital painting_. [DigitalPainting]
-  * _Dynamics_ and _behaviors_ for the digital painting. [DynamicsBehaviors]
-  * What are and not the _Dynamics_ and _Presets_ on Gimp 2.8.
-  * How we can to explore better the new possibilities and _simplify_ the _workflow_.
+  * Real Painting, Media and Tools. [RealPainting]
+  * Media and tools for the digital painting. [DigitalPainting]
+  * Dynamics and behaviors for the digital painting. [DynamicsBehaviors]
+  * What are and not the Dynamics and Presets_ on Gimp 2.8.
+  * How we can to explore better the new possibilities and simplify the workflow.
   * How to cohabit the system of the brushes (vbr, gbr, gih) with the new features (dynamics and presets).
-  * Which the things that need _improvements_ to don't cause the _mistakes_ and to have a better and clear workflow.
+  * Which the things that need improvements to don't cause the mistakes and to have a better and clear workflow.
