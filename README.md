@@ -1,4 +1,4 @@
-#Brushes for GIMP 2.10 and resources.
+**BRUSHES FOR GIMP 2.10 AND RESOURCES**
 
 **method-workshop-brush.png Archive**
 > Image using RGB brush together Color parameter of the paint dynamics.
