@@ -3,5 +3,6 @@
 **method-workshop-brush.png Archive**
 > Image using RGB brush together Color parameter of the paint dynamics.
 
-**RGB Brush Testing**
-> By Jag
+**method-workshop.gih Archive**
+> RGB to test the concept of quality of transparencies, By Jag.
+> See also: https://plus.google.com/u/0/+AmericoGobbo/posts/9YvYwbBwhBt
