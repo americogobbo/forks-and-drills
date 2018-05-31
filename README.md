@@ -1,4 +1,4 @@
-# Brushes for Gimp, MyPaint and other resources.
+# Oldest Brushes for Gimp designed by Jag.
 
 
 * Archive: bristles-complete.zip <br />
