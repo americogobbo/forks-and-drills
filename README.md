@@ -26,7 +26,7 @@ Forks and Drills basic set brushes dedicated to wet and noise brushes, the noise
 Forks and Drills Xilo set brushes dedicated to xilografia technique.
 This set are of my experimentation about this technique.
 
-Brush set for Gimp 2012
+Brush set thought originally to GIMP 2.6.+ and 2.8.+ released in 2012
 
 Testing: José Americo Gobbo [http://americogobbo.com.br], Mozart Couto [http://blogdodesenhador.blogspot.com.br/]
 
