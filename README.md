@@ -1,5 +1,5 @@
 # Oldest Brushes for Gimp designed by Jag.
-
+The series was designed to simulate traditional painting and graphics techniques using the mouse as the main device but is clear if using a graphic tablet with enabling the Size parameter on paint dynamics, for instance, the possibilities will are more effective.
 
 * Archive: _bristles-complete.zip_ <br />
 Forks and Drills complete set brushes dedicated for acrylic or oil, all brushes are an aspect of scrawled stroke, made in 2008.*
@@ -31,6 +31,3 @@ Brush set for Gimp 2012
 Testing: José Americo Gobbo [http://americogobbo.com.br], Mozart Couto [http://blogdodesenhador.blogspot.com.br/]
 
 License: GPL 3.0
-
-Main note:
-The series is supposed to simulate traditional painting and graphics techniques. The brushes are designed for painting using a mouse. For the woodcut brushes, no dynamics are used. For Round Brush, we recommend using a graphic tablet and the Size on paint dynamics.
