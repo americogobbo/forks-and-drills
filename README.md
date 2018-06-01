@@ -8,8 +8,12 @@ Is possible to see that the RGB brush is more 'sharper' (left-side image) and th
 > RGB to test the concept of quality of transparencies, By Jag.
 > See also: https://plus.google.com/u/0/+AmericoGobbo/posts/9YvYwbBwhBt
 
-** Archive: method-workshop-brush.png **
+**Archive: method-workshop-brush.png**
 > Image using RGB brush together Color parameter of the paint dynamics.
 ![](README.assets/README-method-workshop-brush.png)
 
-** Archive: method-workshop.gih **
+**Archive: method-workshop.gih**
+> RGB Brush used in this test
+
+## Basic 2.10 Draft R1
+The archive 'basic-2.10-draft-r1.zip' is the my first attempt to create alternative brush set for GIMP 2.10.
