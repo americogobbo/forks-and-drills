@@ -1,19 +1,35 @@
-# BRUSHES FOR GIMP 2.10 AND RESOURCES
+# Brushes for Gimp, MyPaint and other resources.
 
-## Comparing RGB versus Grayscale brush
-The comparison was made using the same brush in RGB and Grayscale version.
-I have applied, also, the Unsharp Mask filter along the two images (the bottom strip).
-Is possible to see that the RGB brush is more 'sharper' (left-side image) and the Unsharp Mask the effect is a bit sharper and better defined than the image made with grayscale brush version (right-side image).
-> ![](README.assets/README-rgb-versus-grayscale-brush.png)
-> RGB to test the concept of quality of transparencies, By Jag.
-> See also: https://plus.google.com/u/0/+AmericoGobbo/posts/9YvYwbBwhBt
+* Archive: bristles-complete.zip <br />
+Forks and Drills complete set brushes dedicated for acrylic or oil, all brushes are an aspect of scrawled stroke, made in 2008.*
 
-**Archive: method-workshop-brush.png**
-> Image using RGB brush together Color parameter of the paint dynamics.
-![](README.assets/README-method-workshop-brush.png)
+* Archive: noises-complete.zip <br />
+Forks and Drills complete set brushes dedicated for the noise brushes. The noise brushes are mainly used for some dry techniques.
 
-**Archive: method-workshop.gih**
-> RGB Brush used in this test
+* Archive: pencils-complete.zip <br />
+This is the complete set that contains the brushes to emulate the main dry media as graphite pencils, color pencils, crayons.
 
-## Basic 2.10 Draft R1
-The archive 'basic-2.10-draft-r1.zip' is the my first attempt to create alternative brush set for GIMP 2.10.
+* Archive: sumies-complete.zip <br />
+Forks and Drills Sumies set brushes dedicated to sumie technique. They are the revisitation of Mozart Couto sumie brushes.
+
+* Archive: textures-complete.zip <br />
+Forks and Drills Textures set brushes dedicated to floral patterns.
+
+* Archive: wet-complete.zip <br />
+Forks and Drills complete set brushes dedicated to wet brushes. These brushes are mainly dedicated to wet techniques and around.
+
+* Archive: wet-noises.zip <br />
+Forks and Drills basic set brushes dedicated to wet and noise brushes, the noise brushes are mainly used for some dry techniques.
+
+* Archive: xilo-complete.zip <br />
+Forks and Drills Xilo set brushes dedicated to xilografia technique.
+This set are of my experimentations about this technique... next this set are implemented with other brushes of L'ubomir Zabadal.
+
+Brush set for Gimp 2012
+
+Testing: José Americo Gobbo [http://americogobbo.com.br], Mozart Couto [http://blogdodesenhador.blogspot.com.br/]
+
+License: GPL 3.0
+
+Main note:
+The series is supposed to simulate traditional painting and graphics techniques. The brushes are designed for painting using a mouse. For the woodcut brushes, no dynamics are used. For Round Brush, we recommend using a graphic tablet and the Size on paint dynamics.
