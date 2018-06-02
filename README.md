@@ -10,7 +10,7 @@ Forks and Drills complete set brushes dedicated for the noise brushes. The noise
 This is the complete set that contains the brushes to emulate the main dry media as graphite pencils, color pencils, crayons.
 
 * Archive: sumies-complete.zip <br />
-Forks and Drills Sumies set brushes dedicated to sumie technique. They are the revisitation of Mozart Couto sumie brushes.
+Forks and Drills Sumies set brushes dedicated to sumie technique. They are the based on Mozart Couto sumie brushes.
 
 * Archive: textures-complete.zip <br />
 Forks and Drills Textures set brushes dedicated to floral patterns.
