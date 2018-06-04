@@ -23,7 +23,7 @@ Forks and Drills basic set brushes dedicated to wet and noise brushes, the noise
 
 * Archive: xilo-complete.zip <br />
 Forks and Drills Xilo set brushes dedicated to xilografia technique.
-This set are of my experimentations about this technique... next this set are implemented with other brushes of L'ubomir Zabadal.
+This set are of my experimental attempts about this technique... next this set are implemented with other brushes of L'ubomir Zabadal.
 
 Brush set for Gimp 2012
 
