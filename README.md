@@ -26,8 +26,12 @@ Forks and Drills basic set brushes dedicated to wet and noise brushes, the noise
 Forks and Drills Xilo set brushes dedicated to xilografia technique.
 This set are of my experimentation about this technique.
 
+* Archive: _zabadal.zip_ <br />
+Forks and Drills L'ubomir Zabadal set brushes dedicated fine graphics techniques.
+This set are designed by L'ubomir Zabadal to different fine graphics techniques as like drypoint, xilo, etc.
+
 Brush set thought originally to GIMP 2.6.+ and 2.8.+ released in 2012
 
-Testing: José Americo Gobbo [http://americogobbo.com.br], Mozart Couto [http://blogdodesenhador.blogspot.com.br/]
+Testing: José Americo Gobbo [http://americogobbo.com.br], Mozart Couto [http://blogdodesenhador.blogspot.com.br/] and L'ubomir Zabadal.
 
 License: GPL 3.0
